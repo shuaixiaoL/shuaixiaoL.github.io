@@ -13,3 +13,16 @@
     <script type="text/javascript" src="{{'/static/js/script.js' | prepend:site.baseurl | prepend: site.url  }}"></script>
     {% for script in page.scripts %}<script type="text/javascript" src="{{'/static/js/' | append:script | prepend:site.baseurl | prepend: site.url  }}"></script>
     {%endfor%}
+	<script type="text/javascript" charset="utf-8"  src="/static/js/L2Dwidget.0.min.js"></script>
+	<script type="text/javascript" charset="utf-8"  src="/static/js/L2Dwidget.min.js"></script>
+	<script type="text/javascript">
+	    L2Dwidget.init({"display": {
+	        "superSample": 2,
+	        "width": 200,
+	        "height": 400,
+	             "position": "left",
+	                 "hOffset": 0,
+	        "vOffset": 0
+	          }
+	     });
+	</script>
