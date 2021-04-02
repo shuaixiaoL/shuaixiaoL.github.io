@@ -1,5 +1,5 @@
 # 说明：在下当前直接clone项目使用，原项目地址在下面。感谢作者大大的开源，如果有冒犯到可以联系我删除该项目哟。
-# 博客记录自己的一些生活和工作，技术文章并未写明参考文章出处，如果作者大大不开心可以联系我删除文章哟
+# 博客记录自己的一些生活和工作，技术文章并未写明参考文章出处，如果作者大大不开心可以联系我删除文章哟。
 ##[点我查看中文说明/Click here for Chinese instructions](https://github.com/bit-ranger/blog/blob/gh-pages/README_zh_CN.md)
 
 # Blog Address
