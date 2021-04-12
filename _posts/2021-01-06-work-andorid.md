@@ -43,7 +43,7 @@ methods: {
 								if (plus.networkinfo.getCurrentType() != 3) {
 									plus.nativeUI.confirm("检测到您目前非Wifi连接，是否继续更新", function(e) {
 										if (e.index == 0) {
-											_this.downWgt();
+											_this.downWgt(downUrl);
 										} else {
 										}
 									}, "", )["取消", "确定"]
