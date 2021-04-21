@@ -24,7 +24,7 @@ kkFileView可作为文件文档在线预览解决方案，
 
 2.导入项目之后需自行maven下载更新依赖，最后打包启动。  
 
-3.传入文件路径需加密，使用时可`[参考base64](https://cdn.jsdelivr.net/npm/js-base64@3.6.0/base64.min.js)`。 也可自行封装方法。
+3.传入文件路径需加密，使用时可[参考base64](https://cdn.jsdelivr.net/npm/js-base64@3.6.0/base64.min.js)。 也可自行封装方法。
 
 
 
