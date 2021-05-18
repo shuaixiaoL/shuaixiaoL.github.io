@@ -12,6 +12,9 @@ uni-app用利用AndroidStudio打包apk文件，进行发布。
 
 # 准备工作
 
+
+安装[HBuilder X](https://www.dcloud.io/hbuilderx.html)。
+
 安装[AndroidStudio](https://developer.android.google.cn/studio/)。
 
 下载Dcloud[官方SDK](https://nativesupport.dcloud.net.cn/AppDocs/download/android)。
