@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 设置myeclipse工作区背景图片
-tags: myeclipse 设置
+tags: myeclipse setUp
 categories: work
 ---
 

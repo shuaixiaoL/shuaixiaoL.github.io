@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第一次使用博客
-tags: blog think
+tags: think
 categories: life
 ---
 
